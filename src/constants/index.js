@@ -163,6 +163,7 @@ const projects = [
     tech: ['Blockchain', 'React', 'Python', 'SDK'],
     img: carrental1,
     carousel: [carrental1, carrental2],
+    live_link: ''
   },
   {
     id: 2,
@@ -190,7 +191,7 @@ const projects = [
   },
   {
     id: 5,
-    name: 'Telegram mini game',
+    name: 'Next game',
     desc: 'The most impressive game using Next',
     tech: ['Next.js', 'Node.js', 'Express.js', 'Three.js', 'Figma'],
     img: game1,
@@ -242,12 +243,7 @@ const navLinks = [
     id: 3,
     name: 'Work',
     url: '/#work',
-  },
-  {
-    id: 5,
-    name: 'Contact',
-    url: '/#contact',
-  },
+  }
 ];
 
 export {
